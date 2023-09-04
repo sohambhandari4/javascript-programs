@@ -1,3 +1,4 @@
+/3
 let sum = 0;
 const number = prompt('Enter a three-digit positive integer: ');
 
