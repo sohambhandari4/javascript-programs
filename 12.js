@@ -1,3 +1,4 @@
+/12
 // program to check leap year
 function checkLeapYear(year) {
 
