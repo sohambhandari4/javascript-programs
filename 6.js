@@ -1,3 +1,4 @@
+/6
 Printing  Even numbers:
 
 document.write("Even Numbers:<br>");
