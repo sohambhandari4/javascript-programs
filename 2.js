@@ -1,3 +1,4 @@
+/2
 function isPerfectNumber(inputNumber) {
 
     //2
