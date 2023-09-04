@@ -1,3 +1,4 @@
+/1
 let n = 5; 
   
 function factorial(n) { 
